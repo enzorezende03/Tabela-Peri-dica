@@ -1,0 +1,31 @@
+
+ #tablePeriodica{
+    width: 100%;
+    height: 100%;
+ }   
+    
+    body{ height: 750px;}
+    
+    td{ width: 5.5%;
+    height: 8.3;}
+    .Metais{background-color: rgb(255, 0, 0);}
+    .NãoMetal{background-color: rgb(2, 255, 2);}
+    .GasesNobres{background-color: blue;}
+    .Actinídios{background-color: rgb(255, 0, 128);}
+    .Lantanídeos{background-color: cyan;}
+    .MetalAlcalino{background-color: orangered;}
+    .MetalAlcalinoTerroso{background-color: rgb(255, 136, 0);}
+    .Semimetal{background-color: rgb(195, 0, 255);}
+    .Halogênios{background-color: rgb(255, 0, 247);}
+    .OutrosMetais{background-color: rgb(0, 174, 255);}
+    #HANNESSEY{border:none;}
+    #CHEVROLET{border:none;}
+    #INFINITI{border:none;}
+    #LADA{border:none;}
+    #CADILLAC{border:none;}
+    #BUGATTI{border:none;}
+    #DAIHATSU{border:none;}
+    #KOENIGSEGG{border:none;}
+    #GLORIA2253{border:none;}
+
+    body{text-align:center;}
